@@ -11,6 +11,6 @@ function  daterepeat() {
 
 //day 2: Javascript Functions
 function addValues(a,b) {
-    document.getElementById("demo").innerHTML= a+b;
+    console.log(a + " " + b);
 }
 
