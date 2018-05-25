@@ -22,7 +22,7 @@ ul{
     height: 38px;
     background: #e8491d;
     border: 0;
-    padding: 0px 20px 0px 20px;
+    padding: 0 20px 0 20px;
     color: white;
 }
 
@@ -112,3 +112,30 @@ header a:hover{
 }
 
 
+/*boxes*/
+
+#boxes{
+    margin-top: 20px;
+
+}
+
+#boxes .box{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
+
+#boxes .box img{
+    width: 50%;
+    height: 50%;
+
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: #e8491d;
+    text-align: center;
+}
